@@ -10,7 +10,8 @@
       "node",
       "@nx/react/typings/cssmodule.d.ts",
       "@nx/react/typings/image.d.ts"
-    ]
+    ],
+    "jsxImportSource": "@emotion/react"
   },
   "include": [
     "jest.config.ts",
